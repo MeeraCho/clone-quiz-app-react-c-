@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{C08E731A-06AC-4A41-BE65-82DB8DAFD780}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.QuizAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Models FirstBuild="True" />
+</Properties>
