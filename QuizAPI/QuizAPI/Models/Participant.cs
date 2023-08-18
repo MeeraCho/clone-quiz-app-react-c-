@@ -15,7 +15,9 @@ namespace QuizAPI.Models
 
         [Column(TypeName = "nvarchar(50)")]
         public string? Name { get; set; }
+
         public int Score { get; set; }
+
         public int TimeTaken { get; set; }
     }
 }
